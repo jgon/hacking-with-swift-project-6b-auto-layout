@@ -1,4 +1,4 @@
-# Hacking with Swift - Project 6b - Autolayout
+# Hacking with Swift - Project 6b - Auto layout
 
 Using auto layout constraint programmatically.
 
